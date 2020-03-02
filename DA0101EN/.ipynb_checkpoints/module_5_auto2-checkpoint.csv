@@ -1,0 +1,11 @@
+--2020-03-01 23:26:53--  https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/module_5_auto.csv
+Resolving s3-api.us-geo.objectstorage.softlayer.net (s3-api.us-geo.objectstorage.softlayer.net)... 67.228.254.196
+Connecting to s3-api.us-geo.objectstorage.softlayer.net (s3-api.us-geo.objectstorage.softlayer.net)|67.228.254.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37048 (36K) [text/csv]
+Saving to: 'module_5_auto.csv'
+
+     0K .......... .......... .......... ......               100% 88.9K=0.4s
+
+2020-03-01 23:26:55 (88.9 KB/s) - 'module_5_auto.csv' saved [37048/37048]
+
